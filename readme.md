@@ -1,0 +1,1 @@
+In this repostory you will find some of the scripts I developed during my internship as a Bioinformatics research support in the Animal Genomics area in the Centre for Research in Agricultural Genomics. 
