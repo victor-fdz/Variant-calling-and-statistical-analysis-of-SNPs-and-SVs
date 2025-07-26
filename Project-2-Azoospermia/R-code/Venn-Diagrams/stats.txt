@@ -1,0 +1,3 @@
+#N_Total_SVs	N_Significant_SVs(pvalue)	N_Significant_SVs(qvalue)	N_Significant_SVs(Bonferroni)
+-	0.05	0.05	7.6346e-04
+9 8 6 2
