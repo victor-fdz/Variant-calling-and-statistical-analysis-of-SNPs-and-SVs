@@ -30,4 +30,5 @@ Scripts for detecting possible **Structural Variants (SVs)** related to **azoosp
 
 - **`compare_VCFs_code.py`**  
   🔍 Takes **2 VCF files** and compares their variant content (rows), visualizing the result with a **Venn Diagram**.
-
+- **'R code'**
+   🧬 R Scripts and complementary files used to plot a 5-side Venn Diagram of shared variants among animal pools and variants in karyotypes. 
