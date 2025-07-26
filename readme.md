@@ -18,17 +18,18 @@ Scripts for identifying variants correlated with **Genomic Breeding Value (GEBV)
   - Spearman correlation  
   - Fisher Exact Test  
   - Pearson correlation  
-  - Linear Model  
-
-- **`calculate_allele_freq.py`**  
-  🧪 Calculates the **allelic frequency** of each variant in a VCF using the number of reads mapped to each option (**var/ref**).
+  - Linear Model
+    
+- **`compare_VCFs_code.py`**  
+  🔍 Takes **2 VCF files** and compares their variant content (rows), visualizing the result with a **Venn Diagram**.
 
 ---
 
 ### **Project 2: Variant Calling & Azoospermia-Causal SV Detection**
 Scripts for detecting possible **Structural Variants (SVs)** related to **azoospermia**.
 
-- **`compare_VCFs_code.py`**  
-  🔍 Takes **2 VCF files** and compares their variant content (rows), visualizing the result with a **Venn Diagram**.
+- **`calculate_allele_freq.py`**  
+  🧪 Calculates the **allelic frequency** of each variant in a VCF using the number of reads mapped to each option (**var/ref**).
+
 - **'R-code'**
    🧬 R Scripts and complementary files used to plot a 5-side Venn Diagram of shared variants among animal pools and variants in karyotypes. 
