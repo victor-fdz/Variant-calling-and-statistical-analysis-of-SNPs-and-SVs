@@ -31,5 +31,5 @@ Scripts for detecting possible **Structural Variants (SVs)** related to **azoosp
 - **`calculate_allele_freq.py`**  
   🧪 Calculates the **allelic frequency** of each variant in a VCF using the number of reads mapped to each option (**var/ref**).
 
-- **'R-code'**
+- **`R-code`**
    🧬 R Scripts and complementary files used to plot a 5-side Venn Diagram of shared variants among animal pools and variants in karyotypes. 
